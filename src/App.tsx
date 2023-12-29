@@ -6,7 +6,7 @@ import { GiMaterialsScience } from "react-icons/gi";
 
 const App: React.FC = () => {
   return (
-    <div className="container mx-auto mt-8 ">
+    <div className="mx-auto mt-8">
       <div className="flex items-center mb-4 text-4xl font-bold mr-2 justify-center">
         <GiMaterialsScience />
         <h1 className="mx-4">FAQ</h1>
